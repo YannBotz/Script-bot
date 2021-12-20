@@ -36,13 +36,13 @@ MISAL DEPANNYA PAKE TANDA PETIK DI ATAS 1 (`) BERARTI DI AKHIRNYA HARUS DI TUTUP
 ❗MAU BELI SCRIPT YANG NO ENC ? KE PM BAWA DANA, HARGA BISIK BISIK :V (6281231951590)
 ────────────────────────────────────────────────────────────────────────────────────────                                                                                                                                                                                                                                                                */
 limitawal = "50" //LIMIT AWAL
-namabot = "Its Me Xinzz" //NAMA BOT
-namaowner = "OWNER Xinzz🎖️" //NAMA OWNER
-nomerowner = '6281994112523' //NOMER OWNER
+namabot = "Its Me Yanzz" //NAMA BOT
+namaowner = "OWNER Yanzz🎖️" //NAMA OWNER
+nomerowner = '6281395861695' //NOMER OWNER
 gamewaktu = "300" //3 = 3 detik || 30 = 30 detik .Dst
 numbernye = "0" //GAUSAH DI UBAH JUGA GPP
-gcounttprem = "35" //LIMIT GAME AWAL UNTUK USER PREMIUM
-gcounttuser = "40" //LIMIT GAME AWAL UNTUK USER BIASA
+gcounttprem = "45" //LIMIT GAME AWAL UNTUK USER PREMIUM
+gcounttuser = "30" //LIMIT GAME AWAL UNTUK USER BIASA
 f = "⬡"
 prefa = "!"
 
@@ -52,9 +52,9 @@ const lolkey = 'isi' //MASUKAN APIKEYMU DI DISINI, JANGAN LUPA BUKA DAN TUTUP PA
 //DONASI 
 //NOTE : JIKA GA PUNYA, ISI JADI -
 gopay = 'Kode Qr Di Profile Bot'
-dana = '081297365205'
-ovo = '081994112523'
-shopeepay = '081994112523'
+dana = 'QR ONLY'
+ovo = '-'
+shopeepay = '-'
 paypal = '-'
 saweria = '-'
 ewalet = '-'
@@ -68,10 +68,12 @@ limit: 'Limit Kamu Sudah Habis, Silahkan Belii Lewat #buylimit (nominal) atau mi
 glimit: 'Limit Game Kamu Sudah Habis\nSilahkan Beli Lewat #buyglimit (nominal) atau minta gift dari temen mu',
 sewabot: `━ 「 𝗦𝗘𝗪𝗔 𝗕𝗢𝗧 」 ━
 
+20K / BULAN (FREE PREM)
 30k / PERMANENT (FREE PREMIUM)
 
 ─ *PREMIUM USER* ─
 
+5K / HARI
 10K / BULAN
 
 minat? wa.me/${nomerowner}`,
