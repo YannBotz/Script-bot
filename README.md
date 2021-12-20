@@ -18,7 +18,7 @@ Whatsapp bot
 ```
 
 ##RUN HEROKU 
-['HEROKU'](heroku.com)
+['HEROKU.com'](heroku.com)
 
 ###### Run
 ```bash
