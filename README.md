@@ -16,6 +16,10 @@ Whatsapp bot
 > cd Xinzz
 > npm install
 ```
+
+##RUN HEROKU 
+['HEROKU'](heroku.com)
+
 ###### Run
 ```bash
 > node . [<session name>] (session name is optional)
